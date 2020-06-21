@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+.h2 {
+	font-family: "Arial Black", Gadget, sans-serif;
+	background-attachment: fixed;
+	background-color: #999;
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+h2 {
+	font-size: 14px;
+}
+table {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #999;
+	margin: auto;
+	padding: 1px;
+	float: none;
+	height: auto;
+	width: auto;
+	border: medium solid #000;
+	list-style-type: disc;
+}
+table {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #999;
+	margin: auto;
+	padding: 1px;
+	float: none;
+	height: auto;
+	width: auto;
+	border: medium solid #000;
+	list-style-type: disc;
+}
+#footer {
+	height: 50px;
+	text-align: right;
+    clear:both;
+    background:#FFFFFF;
+    }
+
+div {
+	margin: 20px;
+	padding: 20px;
+	clear: both;
+	float: left;
+	height: auto;
+	width: auto;
+}
